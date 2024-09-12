@@ -16,7 +16,7 @@ author:
   avatar           : "profile.jpg"
   name             : "Tajas Sabharwal"
   pronouns         : # example: "she/her"  
-  bio              : "Recent University of Calgary Bachelor of Commerce graduate"
+  bio              : "Recent Graduate"
   location         : "Calgary, AB"
   employer         : "University of Calgary"
   uri              : # URL
@@ -220,9 +220,9 @@ defaults:
   # _posts
   - scope:
       path: ""
-      type: posts
+      type: 
     values:
-      layout: single
+      layout: 
       author_profile: true
       read_time: true
       comments: true
@@ -231,25 +231,25 @@ defaults:
   # _pages
   - scope:
       path: ""
-      type: pages
+      type: 
     values:
-      layout: single
+      layout: 
       author_profile: true
   # _teaching
   - scope:
       path: ""
-      type: teaching
+      type: 
     values:
-      layout: single
+      layout: 
       author_profile: true
       share: true
       comments: true
   # _publications
   - scope:
       path: ""
-      type: publications
+      type: 
     values:
-      layout: single
+      layout: 
       author_profile: true
       share: true
       comments: true
@@ -265,9 +265,9 @@ defaults:
   # _talks
   - scope:
       path: ""
-      type: talks
+      type: 
     values:
-      layout: talk
+      layout: 
       author_profile: true
       share: true
 
