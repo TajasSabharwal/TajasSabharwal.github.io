@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, My name is Tajas (like contagious), but alot of my friends call me TJ. I am a recent graduate from the University of Calgary with a bachelors degree in business analytics. Growing up I had always been interested in technology and making money, so the business analytics program at the University of Calgary was an obvious choice for me. When I'm not writing code or looking at spredsheets you can find me out on the golf course, cheering on the Oilers, or reading classic novels. 
+Hello, My name is Tajas (like contagious), but alot of my friends call me TJ. I am a recent graduate from the University of Calgary with a bachelors degree in business analytics. Growing up I had always been interested in technology and starting my own business, so the business analytics program at the University of Calgary was an obvious choice for me. When I'm not writing code or looking at spreadsheets you can find me out on the golf course, cheering on the Oilers, or reading classic novels. 
 
 Education
 ======
